@@ -1,1 +1,1 @@
-# fg_admin
+# FreedomGraphics-adminpanal
